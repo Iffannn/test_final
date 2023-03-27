@@ -1,0 +1,6 @@
+fastapi
+mangum
+pytest
+requests
+httpx
+python-multipart
